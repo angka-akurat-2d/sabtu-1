@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angka-akurat-2d.github.io/sabtu-1/sitemap.xml
